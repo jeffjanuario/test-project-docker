@@ -1,16 +1,16 @@
 # App with:
- .NodeJS
+ >NodeJS
 	
- .Express
+ Express
 	
- .Mongo
+ Mongo
 	
- .Docker
+ Docker
 	
- .Babel
+ Babel
 	
- .git
+ git
 	
 # Plataform: 
 
- .Windows 10
+ Windows 10
