@@ -9,7 +9,7 @@
  
  >Babel	
  
- >git
+ >Git
 	
 # Plataform: 
  
