@@ -1,4 +1,4 @@
-# App has:
+# App with:
  >NodeJS
 
  >Mongo	
