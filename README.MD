@@ -1,9 +1,6 @@
 # App has:
  >NodeJS
- 
- 	Express
-	
- 	Babel	
+
  >Mongo	
  
  >Docker	
