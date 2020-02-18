@@ -1,13 +1,12 @@
 # App has:
  >NodeJS
  
- >Express	
- 
+ 	Express
+	
+ 	Babel	
  >Mongo	
  
  >Docker	
- 
- >Babel	
  
  >Git
 	
