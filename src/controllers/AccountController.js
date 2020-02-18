@@ -27,4 +27,21 @@ export default {
       res.json({ message: "Something's wrong", error: e });
     }
   },
+  status: async (req, res) => {
+    try {
+      res.json({ message: {status: "UP"}});
+    } catch (e) {
+      res.json({ message: "Something's wrong", error: e });
+    }
+  },
+  all: async (req, res) => {
+    try {
+      if (!res.headersSent) {
+        console.log(new Error('ERROR 404 - PAGE NOT FOUND'));
+        res.status(400).send({ message: 'ERROR 404 - PAGE NOT FOUND' });
+      }
+    } catch (e) {
+      res.json({ message: "Something's wrong", error: e });
+    }
+  },
 };
