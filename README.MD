@@ -1,4 +1,4 @@
-# App compose:
+# App has:
  >NodeJS
  
  >Express	
