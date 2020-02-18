@@ -1,1 +1,9 @@
-# Aplication with NodeJS, using Express, Mongo, Docker and Babel
+# Aplication with:
+ .NodeJS 
+ .Express
+ .Mongo
+ .Docker
+ .Babel
+ .git
+# Plataform: 
+ .Windows 10
